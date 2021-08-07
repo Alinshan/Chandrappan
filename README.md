@@ -24,7 +24,7 @@ Project created by <a href="https://github.com/CYBER-DASHAMOOLAN">ALINSHAN</a>
 <div align="center">
 <br>
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CYBER-DASHAMOOLAN&repo=POOCHA_SER&theme=nightowl)](https://github.com/CYBER-DASHAMOOLAN/POOCHA_SER)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CYBER-DASHAMOOLAN&repo=Bot-Chandrappan&theme=nightowl)](https://github.com/CYBER-DASHAMOOLAN/Bot-Chandrappan)
   </div>
     
 ## Setup
@@ -35,7 +35,7 @@ Project created by <a href="https://github.com/CYBER-DASHAMOOLAN">ALINSHAN</a>
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CYBER-DASHAMOOLAN/POOCHA_SER.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CYBER-DASHAMOOLAN/Bot-Chandrappan.git)
      </div>
 <br>
 <br >
@@ -50,8 +50,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/CYBER-DASHAMOOLAN/POOCHA_SER
-$ cd POOCHA_SER
+$ git clone https://github.com/CYBER-DASHAMOOLAN/Bot-Chandrappan
+$ cd Bot-Chandrappan
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -60,8 +60,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/CYBER-DASHAMOOLAN/POOCHA_SER
-$ cd POOCHA_SER
+$ git clone https://github.com/CYBER-DASHAMOOLAN/Bot-Chandrappan
+$ cd Bot-Chandrappan
 $ chmod +x *
 $ npm i
 $ node qr.js
