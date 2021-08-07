@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://www.linkpicture.com/q/Chandrappan.png" width="190" height="131"/>
+  <img border-radius: 15px src="https://www.linkpicture.com/q/Chandrappan.png" width="190" height="128"/>
   <p align="center">
 <a href="#"><img title="Bot Chandrappan" src="https://img.shields.io/badge/-BOT%20CHANDRAPPAN-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
