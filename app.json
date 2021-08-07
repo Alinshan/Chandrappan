@@ -1,7 +1,7 @@
 {
-    "name": "BOT POOCHA SER",
-    "description": "POOCHA SER - Makes it easy and fun to use Whatsapp. user bot for Whatsapp.",
-    "logo": "https://www.linkpicture.com/q/poocha-ser.png",
+    "name": "BOT CHANDRAPPAN",
+    "description": "CHANDRAPPAN - user bot for Whatsapp.",
+    "logo": "https://www.linkpicture.com/q/Chandrappan.png",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
     "repository": "https://github.com/afnalplk/pikachu",
     "website":   "https://t.me/phaticusthiccy",
@@ -137,7 +137,8 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "I AM ALIVE 🙂 CODDED BY ALINSHAN"
+            "value": "*I AM ALIVE* 🙂" 
+		     "*CODDED BY ALINSHAN*"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
