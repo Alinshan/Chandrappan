@@ -20,13 +20,11 @@ Asena.addCommand({pattern: 'list', fromMe: false, desc: Lang.WP}, (async (messag
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦𝔸𝕞𝕒𝕝𝕤𝕖𝕣❤️⃝➤⃟̱̱̱̱̄̄̄̄𝕤𝕞𝕒𝕣𝕥 𝕓𝕠𝕥⛦
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦BOT CHANDRAPPAN❤️⃝➤⃟̱̱̱̱̄̄̄̄𝕤𝕞𝕒𝕣𝕥 𝕓𝕠𝕥⛦
 
 
-💟𝗠𝗲         💠_𝙒𝙝𝙖𝙩𝙨𝙖𝙥𝙥 𝙪𝙨𝙚𝙧 𝙗𝙤𝙩 
-💟𝗢𝘄𝗻𝗲𝗿  💠 𝘼𝙢𝙖𝙡𝙨𝙚𝙧
-💟𝗩𝗲𝗿𝘀𝗶𝗼𝗻💠_1.32 𝙂𝙡𝙤𝙗𝙡𝙚
-💟𝗛���𝘀𝘁𝗲𝗱 💠𝙃𝙚𝙧𝙤𝙠𝙪 
+💟𝗠𝗲     💠_BOT CHANDRAPPAN 
+💟𝗢𝘄𝗻𝗲𝗿  💠_ALINSHAN
 
 ════════════════════
           🐼_𝙒𝙊𝙍𝙆𝙄𝙉𝙂 𝘼𝙎 𝙋𝙐𝘽𝙇𝙄𝘾_🐼 ══════════════════
@@ -39,42 +37,14 @@ Asena.addCommand({pattern: 'list', fromMe: false, desc: Lang.WP}, (async (messag
         ✅_.vava
         ✅_.amalser
 ══════════════════
-
-➣:𝙉𝙀𝙀𝘿 𝙏𝙊 𝙈𝘼𝙆𝙀 𝘽𝙊𝙏 𝙇𝙄𝙆𝙀 𝘼𝙎 𝙈𝙀🥺
-
-⭕➣https://github.com/cyberchekuthan/Amalser_v1
-
-➣:𝙎𝙐𝘽𝙎𝘾𝙍𝙄𝘽𝙀 𝙊𝙐𝙍 𝘾𝙃𝘼𝙉𝙉𝙀𝙇
-
-⭕➣https://youtu.be/eezGqQj9gQ4
-
-➣:𝙈𝘼𝙄𝙉 𝙂𝙍𝙊𝙐𝙋𝙎
-
-⭕➣https://chat.whatsapp.com/DHYuPadEvEw4wvs93NtL6n
-
-⭕➣https://chat.whatsapp.com/Lvtl7GqERfP19Na6M2wndX
-
-
-➣:𝙊𝙐𝙍 𝙀𝘿𝙐𝘾𝘼𝙏𝙄𝙊𝙉𝘼𝙇 𝙂𝙍𝙊𝙐𝙋
-
-⭕➣https://chat.whatsapp.com/DHYuPadEvEw4wvs93NtL6n
-
-➣:𝙍𝙐𝙇𝙀𝙎
-
-⭕➣𝗗𝗼𝗻'𝘁 𝗰𝗼𝗺𝗲 𝗶𝗻𝗯𝗼𝘅 𝘆𝗼𝘂 𝗮𝗿𝗲 𝗯𝗹𝗼𝗰𝗸𝗲𝗱 𝗮𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗰𝗮𝗹𝗹𝘆.
-⭕➣𝘿𝙤𝙣'𝙩 𝙩𝙧𝙮 𝙘𝙤𝙢𝙢𝙖𝙣𝙙𝙨 𝙞𝙣 𝙞𝙣𝙗𝙤𝙭.
-
 ➣:𝙊𝙒𝙉𝙀𝙍
 
 ⭕➣https://wa.me/message/919895828468
 
 ➣:𝘾𝙊𝘿𝙀𝘿 𝘽𝙔
 
-⭕➣𝘼𝙢𝙖𝙡𝙨𝙚𝙧
+⭕➣*ALINSHAN*
 
-➣:𝙂𝙄𝙏𝙃𝙐𝘽
-
-⭕➣https://github.com/cyberchekuthan/Amalser_v1
 
 ══════════════════
 ➣𝘾𝙊𝙈𝙈𝘼𝙉𝘿 𝙇𝙄𝙎𝙏𝙎
