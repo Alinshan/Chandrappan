@@ -1,6 +1,6 @@
 /* Copyright (C) 2020 Yusuf Usnta.
-RECODDED BY AFNANPPLK
-Plk  
+RECODDED BY ALINSHAN
+  
 */
 
 const fs = require("fs");
@@ -133,7 +133,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         });
 
         console.log(
-            chalk.green.bold('Amalser working perfectly 💘')
+            chalk.green.bold('BOT CHANDRAPPAN working perfectly 💘')
         );
     });
     
@@ -245,7 +245,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, 'AMALSERBOT_🐱_[error] ' +
+                                await conn.sendMessage(conn.user.jid, 'BOT CHANDRAPPAN_🐱_[error] ' +
                                     '\n\n*👻 ' + error + '*\n'
                                     , MessageType.text);
                             }
