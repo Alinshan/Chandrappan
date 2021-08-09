@@ -22,7 +22,7 @@ Asena.addCommand({pattern: 'owner', fromMe: false, desc: Lang.WP}, (async (messa
 
 *Bgm updation 💘*
 
-*Owner number wa.me/9193839160*
+*Owner number wa.me/919383494160*
 
 `}) 
 
