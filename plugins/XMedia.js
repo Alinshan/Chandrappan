@@ -1,6 +1,6 @@
 /* Codded by @phaticusthiccy
-re-editted by afnanplk
-PINKY V2
+re-editted by ALINSHAN
+
 
 */
 
