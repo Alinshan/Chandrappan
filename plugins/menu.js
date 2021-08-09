@@ -20,10 +20,8 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━💘Amal ser💘━━━━━⛦
 
 
-𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐚 Amalser 𝐛𝐨𝐭.
+𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 BOT CHANDRAPPAN.
   
-*http://ẉa.me/➳Amal*
-
 ■□■□■□■□■□■□■□■□■□■□
 💘 *𝙈𝙚𝙙𝙞𝙖 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* 💘
 
@@ -79,7 +77,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 🧸𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -wallpaper
 🎧𝙐𝙨𝙚➜ It sends you random wallpaper.
 
-■□■□■□■□■□Amal💘■□■□■□■□■□
+■□■□■□■*CHANDRAPPAN*💘■□■□■□■
 ♟ *𝙁𝙪𝙣 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♟
 
 🧸𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -joke 
@@ -122,7 +120,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 🧸𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜  -anime <text>
 🎧𝙐𝙨𝙚➜  Gives you info about anime.
 🎯anime amalser
-■□■□■□■□■Amalser□■□■□■□■□■□
+■□■□■□■*CHANDRAPPAN*💘■□■□■□■
 ♝ *𝙎𝙩𝙞𝙘𝙠𝙚𝙧 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♝
 
 🧸𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -sticker 
@@ -133,11 +131,10 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
 🧸𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -attp <text>
 🎧𝙐𝙨𝙚➜ Converts text into glowing sticker.
-🎯ex  attp amalser
+🎯ex  attp CHANDRAPPAN
 ■□■□■□■□■□■□■□■□■□■□
-═════💢Amalser💢═════
-▣▣▣▣▣▣▣▣▣💘Amalser💘▣▣▣▣▣▣▣▣▣▣▣
-
+═💢BOT_CHANDRAPPAN💢═
+▣▣▣▣💘CHANDRAPPAN💘▣▣▣▣
 `}) 
 
 }));
