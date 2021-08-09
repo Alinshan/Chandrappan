@@ -28,7 +28,7 @@
         "admin": {
             "BAN_DESC": "Ban someone in the group. Reply to message or tag a person to use command.",
             "IM_NOT_ADMIN": "*njan admin allada aliya😥 sad bgm song please nanbaa🥺*",
-            "BANNED": "ninne eni evide veda eragi poda get out in the name of father stupid edit😏",
+            "BANNED": "ninne eni evide venda erangi poda get out stupid edit😏",
             "GIVE_ME_USER": "*arelum mention karo baii😎*",
             "ADD_DESC": "Adds someone to the group.",
             "ADDED": "added to the group!",
@@ -41,7 +41,7 @@
             "MUTE_DESC": "Mute the group chat. Only the admins can send a message.",
             "MUTED": "```Group adaachey😉```",
             "UNMUTE_DESC": "Unmute the group chat. Anyone can send a message.",
-            "UNMUTED": "```The group thuranne chakare umma😘```",
+            "UNMUTED": "```group thuranne chakare umma😘```",
             "INVITE_DESC": "Provides the group's invitation link.",
             "INVITE": "```Invitation link: ```"
         },
@@ -72,9 +72,9 @@
             "MUST_TEXT": "```Please reply to any message```"
         },
         "heroku": {
-            "RESTART_DESC": "Restart WhatsAsena",
-            "RESTART_MSG": "```Amalser Restarting...please wait chakare😌```",
-            "SHUTDOWN_DESC": "Shutdown WhatsAsena",
+            "RESTART_DESC": "Restart BOT CHANDRAPPAN",
+            "RESTART_MSG": "```BOT CHANDRAPPAN Restarting...please wait chakare😌```",
+            "SHUTDOWN_DESC": "Shutdown BOT CHANDRAPPAN",
             "SHUTDOWN_MSG": "```Shutting down ⛔```",
             "DYNO_DESC": "Check heroku dyno usage",
             "DYNO_TOTAL": "```Total Quota```",
@@ -107,13 +107,13 @@
             "WELCOME_ALREADY_SETTED": "*✅ Welcome message already set!*\n*Message:* ```",
             "NEED_WELCOME_TEXT": "*You must write a message to set up the welcome message.*\n*Example:* ```.welcome WELCOME!```",
             "WELCOME_DELETED": "*✅ Welcome message has been deleted successfully!*",
-            "WELCOME_SETTED": "*✅Amalser Welcome message has been set successfully! Eni aru vannalum nan welcome cheyyum muthe💘*",
+            "WELCOME_SETTED": "*✅BOT CHANDRAPPAN Welcome message has been set successfully! Eni aru vannalum nan welcome cheyyum muthe💘*",
             "GOODBYE_DESC": "Sets the goodbye message. If you leave blank, it show's the goodbye message.",
             "NOT_SET_GOODBYE": "*You didn't set a goodbye message!*\n*To set:* ```.goodbye Your Goodbye Message```",
             "GOODBYE_ALREADY_SETTED": "*✅ Goodbye message has been set!*\n*Message:* ```",
             "NEED_GOODBYE_TEXT": "*You must write a message to set up the goodbye message.*\n*Example:* ```.goodbye Goodbye!```",
             "GOODBYE_DELETED": "*✅ Goodbye message has been deleted successfully!*",
-            "GOODBYE_SETTED": "*✅Amalser Goodbye message has been setted successfully! Eni aru left ayalum nan adharangalikal arpikum✝️*"
+            "GOODBYE_SETTED": "*✅BOT CHANDRAPPAN Goodbye message has been setted successfully! Eni aru left ayalum nan adharangalikal arpikum✝️*"
         },
         "lydia": {
             "ADDLYDIA_DESC": "Activates Lydia (AI) for the user.",
@@ -223,7 +223,7 @@
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
             "UPDATED": "*Updated 🧸✅  sanam set👍*",
             "UPDATED_LOCAL": "*✅ Successfully Updated 😍😍😍!*",
-            "AFTER_UPDATE": "*💘 Amalser Restarting  please wait 5mints*"
+            "AFTER_UPDATE": "*💘BOT CHANDRAPPAN Restarting  please wait 5mints*"
         },
         "weather": {
             "WEATHER_DESC": "Shows the weather.",
