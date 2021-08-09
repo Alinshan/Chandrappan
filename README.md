@@ -1,5 +1,5 @@
 <div align="center">
-  <img border-radius: 15px src="https://www.linkpicture.com/q/Chandrappan.jpg" width="200" height="131"/>
+  <img border-radius: 15px src="https://www.linkpicture.com/q/Chandrappan.jpg" width="300" height="131"/>
   <p align="center">
 <a href="#"><img title="Poocha Ser" src="https://img.shields.io/badge/-POOCHA%20SER-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
