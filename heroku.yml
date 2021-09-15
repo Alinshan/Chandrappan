@@ -1,0 +1,5 @@
+build:
+  docker:
+      worker: /BotChandrappan/Dockerfile
+run:
+   worker: npm start
