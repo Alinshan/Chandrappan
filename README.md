@@ -1,3 +1,14 @@
+
+<!---------- Typing SVG ---------->
+<p align="center">
+    <a href="https://avatars.githubusercontent.com/u/85664936?v=4">
+        <img
+            src="https://readme-typing-svg.herokuapp.com?size=31&width=1000&lines=WELCOME+TO+BOT+CHANDRAPPAN+CODDED+BY+ALINSHAN....."
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+
 <div align="center">
   <img border-radius: 15px src="https://www.linkpicture.com/q/Chandrappan_1.jpg" width="200" height="300"/>
   <p align="center">
