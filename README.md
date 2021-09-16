@@ -34,7 +34,8 @@ Project created by <a href="https://github.com/CYBER-DASHAMOOLAN">ALINSHAN</a>
 <div align="center">
 <br>
        
-  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CYBER-DASHAMOOLAN&repo=Chandrappan&theme=nightowl)](https://github.com/CYBER-DASHAMOOLAN/Chandrappan)
+  </div>
     
 ## Setup
 <div align="center">
