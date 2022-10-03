@@ -8,7 +8,7 @@
         />
     </a>
 </p>
-
+<div align="center">
 # ❝𝐁𝐎𝐓 𝐂𝐇𝐀𝐍𝐃𝐑𝐀𝐏𝐏𝐀𝐍❞
 Simple User Bot For WhatsApp
 </div>
