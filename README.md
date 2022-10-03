@@ -3,7 +3,7 @@
 <p align="center">
     <a href="https://avatars.githubusercontent.com/u/85664936?v=4">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=31&width=1000&lines=WELCOME+TO+BOT+CHANDRAPPAN+CODDED+BY+ALINSHAN....."
+            src="https://readme-typing-svg.herokuapp.com?size=31&width=1000&lines=WELCOME+TO+BOT+CHANDRAPPAN+REPO....."
             alt="Typing SVG"
         />
     </a>
