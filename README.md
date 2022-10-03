@@ -14,7 +14,7 @@ Simple User Bot For WhatsApp
 </div>
 
 <div align="center">
-  <img border-radius: 15px src="https://www.linkpicture.com/q/Chandrappan.jpg" width="200" height="300"/>
+  <img border-radius: 15px src="https://www.linkpicture.com/q/Chandrappan.jpg" width="300" height="300"/>
   <p align="center">
 <a href="#"><img title="Bot-Chandrappan" src="https://img.shields.io/badge/-Bot%20Chandrappan-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
