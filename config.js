@@ -1,6 +1,8 @@
 /* Copyright (C) 2020 Yusuf Usta.
 re edited by alinshan
-CHANDRAPPAN 
+CHANDRAPPAN WA BOT
+
+/*Dear Recoders You Can Edit Please Give Credit @Alinshan
 */
 
 const { Sequelize } = require('sequelize');
@@ -29,7 +31,7 @@ module.exports = {
     GANSTYLE: process.env.GAN_IMAGE === undefined ? 'https://i.hizliresim.com/loUtAb.jpg' : process.env.GAN_IMAGE,
     LANG: process.env.LANGUAGE === undefined ? 'TR' : process.env.LANGUAGE.toUpperCase(),
     ALIVEMSG: process.env.ALIVE_MESSAGE === undefined ? 'default' : process.env.ALIVE_MESSAGE,
-    AFNN: process.env.TAG_REPLY === undefined ? '919383491460@s.whatsapp.net' : process.env.TAG_REPLY,
+    AFNN: process.env.TAG_REPLY === undefined ? '918592068706@s.whatsapp.net' : process.env.TAG_REPLY,
     KICKMEMSG: process.env.KICKME_MESSAGE === undefined ? 'default' : process.env.KICKME_MESSAGE,
     BLOCKCHAT: process.env.BLOCK_CHAT === undefined ? false : process.env.BLOCK_CHAT,
     ADDMSG: process.env.ADD_MESSAGE === undefined ? 'default' : process.env.ADD_MESSAGE,
@@ -55,7 +57,7 @@ module.exports = {
     ALNS: process.env.THERI_LIST_GP === undefined ? false : process.env.THERI_LIST_GP,
     HANDLERS: process.env.HANDLERS === undefined ? '^[.!;]' : process.env.HANDLERS,
     SEND_READ: process.env.SEND_READ === undefined ? false : convertToBool(process.env.SEND_READ),
-    MAHN: process.env.MAAN === undefined ? '919383491460,0' : process.env.MAAN, //dont change thise , if you change this some plugins created by me might not work for others or might have error ( bcoz this is a api key )
+    MAHN: process.env.MAAN === undefined ? '918592068706,0' : process.env.MAAN, //dont change thise , if you change this some plugins created by me might not work for others or might have error ( bcoz this is a api key )
     BRANCH: 'master',
     HEROKU: {
         HEROKU: process.env.HEROKU === undefined ? false : convertToBool(process.env.HEROKU),
